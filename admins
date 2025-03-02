@@ -1,1 +1,1 @@
-{"admins": [{"username": "admin1", "name": "المدير الأول", "password": "pass1", "role": "super_admin"}]}
+{"admins": [{"username": "admin1", "name": "المدير الأول", "password": "pass1", "role": "super_admin"}, {"username": "adminmuhammed", "name": "muhammedelothman", "password": "0944757690", "created_date": "2025-03-03", "is_active": true, "role": "admin"}]}
