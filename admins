@@ -1,1 +1,11 @@
-{"admins": [{"username": "admin1", "name": "المدير الأول", "password": "pass1", "role": "super_admin"}, {"username": "adminmuhammed", "name": "muhammedelothman", "password": "0944757690", "created_date": "2025-03-03", "is_active": true, "role": "admin"}, {"username": "adminjanti", "name": "JaNTi EssMeiL", "password": "f.jv5jannti", "created_date": "2025-03-03", "is_active": true, "role": "admin"}]}
+{"admins": [{
+    "admins": [
+        {
+            "username": "super_admin",
+            "password": "your_password",
+            "role": "super_admin",
+            "is_active": true,
+            "expiry_date": "2025-12-31"
+        }
+    ]
+}, {"username": "adminmuhammed", "name": "muhammedelothman", "password": "0944757690", "created_date": "2025-03-03", "is_active": true, "role": "admin"}, {"username": "adminjanti", "name": "JaNTi EssMeiL", "password": "f.jv5jannti", "created_date": "2025-03-03", "is_active": true, "role": "admin"}]}
